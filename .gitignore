@@ -30,4 +30,25 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
+.vscode/# Build folders (Kachra)
+target/
+bin/
+
+# IDE files
 .vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven wrapper and system files
+.mvn/
+*.class
+*.jar
+*.war
+
+# Logs and temp files
+*.log
+.DS_Store
+
